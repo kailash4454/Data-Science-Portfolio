@@ -16,7 +16,7 @@ I focus on building strong foundations in:
 
 I strongly believe that before building Machine Learning models, understanding the data deeply is the real skill that creates strong analysts.
 
-This repository contains my hands-on projects, assignments, Jupyter notebooks, and end-to-end portfolio work across the Data Science domain.
+This repository contains my hands-on projects, assignments, Jupyter notebooks, end-to-end Machine Learning projects, and recruiter-level portfolio work across the Data Science domain.
 
 ---
 
@@ -41,16 +41,24 @@ This repository contains my hands-on projects, assignments, Jupyter notebooks, a
 ### Machine Learning
 
 * Scikit-learn
-* Supervised Learning
-* Unsupervised Learning
+* Logistic Regression
+* Linear Regression
+* Ridge Regression
+* Lasso Regression
+* Random Forest
+* Gradient Boosting
+* K-Means Clustering
 * Model Evaluation
 * Feature Engineering
+* Hyperparameter Tuning
 
 ### Other Areas
 
 * Statistics
 * Exploratory Data Analysis (EDA)
 * NLP
+* Time Series Forecasting
+* Explainable AI (SHAP)
 * Deep Learning (Learning Phase)
 * Business Analytics
 
@@ -69,12 +77,25 @@ Data-Science-Portfolio/
 │
 ├── NumPy & Pandas/
 │
+├── Resume Projects/
+│   ├── Titanic Survival Prediction
+│   ├── House Price Prediction
+│   └── Retail Intelligence & Forecasting System
+│
+├── SQL Projects/
+│
+├── Power BI Dashboards/
+│
 └── README.md
 ```
 
 ---
 
 ## Featured Projects
+
+---
+
+# Statistics & EDA Projects
 
 ---
 
@@ -117,13 +138,75 @@ This project strengthened my understanding of real-world healthcare analytics an
 
 ---
 
+# Resume Projects (Recruiter-Level End-to-End Projects)
+
+---
+
+### 3. Titanic Survival Prediction (End-to-End ML Project)
+
+### Project Focus:
+
+* Complete ML Pipeline using Pipeline + ColumnTransformer
+* Custom Feature Engineering using Transformer Class
+* Logistic Regression Classification Model
+* FastAPI Backend for Real-Time Prediction
+* Streamlit Frontend UI
+* Production-Ready Project Structure
+
+### Key Insight:
+
+This project demonstrated how machine learning moves beyond notebooks into real-world deployment using APIs, pipelines, and interactive applications.
+
+Accuracy achieved: ~81%
+
+---
+
+### 4. House Price Prediction using Regression Models
+
+### Project Focus:
+
+* High-Dimensional Real Estate Dataset Analysis
+* Data Cleaning and Missing Value Handling
+* Log Transformation of Target Variable
+* One-Hot Encoding and Feature Engineering
+* Linear Regression, Ridge, and Lasso Comparison
+* Regularization for Model Optimization
+
+### Key Insight:
+
+Lasso Regression performed best by reducing overfitting and improving prediction accuracy through feature selection in a high-dimensional dataset.
+
+Best R² Score: ~0.87
+
+---
+
+### 5. Retail Intelligence & Forecasting System
+
+### Project Focus:
+
+* End-to-End ML + Forecasting + Segmentation Project
+* Sales Prediction using ML Models
+* Hyperparameter Tuning using GridSearchCV
+* Time Series Forecasting using Facebook Prophet
+* Customer Segmentation using RFM + K-Means
+* Explainable AI using SHAP
+* Streamlit Application + Power BI Dashboard
+
+### Key Insight:
+
+This project combined machine learning, forecasting, segmentation, and explainable AI into one unified production-ready business intelligence system.
+
+Achieved R² Score: ~0.91
+
+---
+
 ## What I Am Building
 
 I am continuously working on:
 
 * Recruiter-level portfolio projects
 * Real-world dashboard projects
-* End-to-end analytics case studies
+* End-to-End analytics case studies
 * Machine Learning problem solving
 * Strong GitHub + LinkedIn portfolio presence
 
@@ -135,11 +218,11 @@ My goal is to become industry-ready with practical skills, not just theoretical 
 
 ### LinkedIn
 
-[LinkedIn Profile](https://www.linkedin.com/in/kailash-singh-35b2961b0/)
+[LinkedIn Profile](https://www.linkedin.com/in/kailash-singh-35b2961b0/?utm_source=chatgpt.com)
 
 ### GitHub
 
-[GitHub Profile](https://github.com/kailash4454)
+[GitHub Profile](https://github.com/kailash4454?utm_source=chatgpt.com)
 
 ### Email
 
