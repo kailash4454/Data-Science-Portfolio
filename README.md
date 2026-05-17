@@ -14,9 +14,9 @@ I focus on building strong foundations in:
 * Dashboard Development
 * Data Preprocessing & EDA
 
-I believe that before building Machine Learning models, understanding the data deeply is the real skill that creates strong analysts.
+I strongly believe that before building Machine Learning models, understanding the data deeply is the real skill that creates strong analysts.
 
-This repository contains my hands-on projects, assignments, notebooks, and end-to-end portfolio work across the Data Science domain.
+This repository contains my hands-on projects, assignments, Jupyter notebooks, and end-to-end portfolio work across the Data Science domain.
 
 ---
 
@@ -62,17 +62,25 @@ This repository contains my hands-on projects, assignments, notebooks, and end-t
 Data-Science-Portfolio/
 │
 ├── Python/
+│
 ├── Statistics & EDA/
+│   ├── Sales & Discounts Analysis
+│   └── Hospital Patient Data Analysis
+│
+├── NumPy & Pandas/
+│
 └── README.md
 ```
 
 ---
 
-## Featured Work
+## Featured Projects
 
-### Descriptive Analytics and Data Preprocessing on Sales & Discounts Dataset
+---
 
-Project focused on:
+### 1. Descriptive Analytics and Data Preprocessing on Sales & Discounts Dataset
+
+### Project Focus:
 
 * Mean, Median, Mode, Standard Deviation
 * Histograms and Distribution Analysis
@@ -86,6 +94,26 @@ Project focused on:
 A small number of high-value transactions were generating a major portion of total revenue, while most transactions remained low to medium in value.
 
 This project strengthened my understanding of how statistics directly impact business decisions.
+
+---
+
+### 2. Hospital Patient Data Analysis
+
+### Project Focus:
+
+* Patient Data Cleaning and Preprocessing
+* Missing Value Handling using Mean Imputation
+* Duplicate Record Removal using PatientID
+* Department-wise Revenue Analysis using GroupBy
+* Merging Patient + Billing Datasets
+* Row-wise and Column-wise Concatenation
+* Billing Analytics and Doctor Performance Preparation
+
+### Key Insight:
+
+Accurate billing analytics depends heavily on duplicate removal, missing value handling, and proper dataset merging before any dashboard or machine learning model can be trusted.
+
+This project strengthened my understanding of real-world healthcare analytics and business-ready preprocessing.
 
 ---
 
@@ -107,15 +135,15 @@ My goal is to become industry-ready with practical skills, not just theoretical 
 
 ### LinkedIn
 
-https://www.linkedin.com/in/kailash-singh-35b2961b0/
+[LinkedIn Profile](https://www.linkedin.com/in/kailash-singh-35b2961b0/)
 
 ### GitHub
 
-https://github.com/kailash4454
+[GitHub Profile](https://github.com/kailash4454)
 
 ### Email
 
-kailashsingh2203@gmail.com
+[kailashsingh2203@gmail.com](mailto:kailashsingh2203@gmail.com)
 
 ---
 
