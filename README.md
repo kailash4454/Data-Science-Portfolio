@@ -1,8 +1,8 @@
 # Data-Science-Portfolio
 
-## Turning Data into Business Decisions
+# Turning Data into Business Decisions
 
-Welcome to my Data Science Portfolio — a collection of hands-on projects, end-to-end Machine Learning systems, business analytics case studies, EDA projects, dashboards, and recruiter-level practical work built to solve real-world problems using data.
+Welcome to my Data Science Portfolio — a collection of hands-on projects, end-to-end Machine Learning systems, business analytics case studies, EDA projects, statistical analysis projects, dashboards, and recruiter-level practical work built to solve real-world problems using data.
 
 This repository reflects my journey from learning concepts to building industry-ready solutions in:
 
@@ -19,7 +19,7 @@ This repository reflects my journey from learning concepts to building industry-
 
 ---
 
-## About Me
+# About Me
 
 Hi, I'm **Kailash Singh Rawat** — an MCA (Data Science) student and an aspiring **Data Analyst / Data Scientist** passionate about solving real-world business problems using data.
 
@@ -39,11 +39,11 @@ This repository contains my Jupyter notebooks, analytics projects, machine learn
 
 ---
 
-## Skills & Tools
+# Skills & Tools
 
 ---
 
-### Programming & Query Languages
+## Programming & Query Languages
 
 * Python
 * SQL
@@ -51,7 +51,7 @@ This repository contains my Jupyter notebooks, analytics projects, machine learn
 
 ---
 
-### Data Analysis & Visualization
+## Data Analysis & Visualization
 
 * Pandas
 * NumPy
@@ -63,7 +63,7 @@ This repository contains my Jupyter notebooks, analytics projects, machine learn
 
 ---
 
-### Machine Learning
+## Machine Learning
 
 * Scikit-learn
 * Logistic Regression
@@ -80,10 +80,11 @@ This repository contains my Jupyter notebooks, analytics projects, machine learn
 
 ---
 
-### Advanced Areas
+## Advanced Areas
 
 * Statistics
 * Exploratory Data Analysis (EDA)
+* Hypothesis Testing
 * Time Series Forecasting
 * Explainable AI (SHAP)
 * NLP
@@ -94,7 +95,7 @@ This repository contains my Jupyter notebooks, analytics projects, machine learn
 
 ---
 
-## Repository Structure
+# Repository Structure
 
 ```text
 Data-Science-Portfolio/
@@ -104,7 +105,8 @@ Data-Science-Portfolio/
 ├── Statistics & EDA/
 │   ├── Sales & Discounts Analysis Project
 │   ├── Hospital Patient Data Analysis Project
-│   └── Cardiotocographic EDA Project
+│   ├── Cardiotocographic EDA Project
+│   └── Hypothesis Testing - Bombay Hospitality Ltd
 │
 ├── NumPy & Pandas/
 │
@@ -190,11 +192,30 @@ This project strengthened my understanding of medical data interpretation and he
 
 ---
 
+## 4. Bombay Hospitality Ltd. Operating Cost Analysis (Hypothesis Testing)
+
+### Project Focus
+
+* Hypothesis Testing
+* Right-Tailed Z-Test
+* Statistical Decision-Making
+* Critical Value Comparison
+* Business Model Validation
+* Evidence-Based Operational Analysis
+
+### Key Insight
+
+Although restaurant owners believed operating costs had increased, statistical testing showed that the observed average costs were actually significantly lower than the theoretical model prediction.
+
+This project strengthened my understanding of statistical decision-making and business validation using hypothesis testing.
+
+---
+
 # Resume Projects (Recruiter-Level End-to-End Projects)
 
 ---
 
-## 4. Titanic Survival Prediction (End-to-End ML Project)
+## 5. Titanic Survival Prediction (End-to-End ML Project)
 
 ### Project Focus
 
@@ -215,7 +236,7 @@ This project demonstrated how machine learning moves beyond notebooks into real-
 
 ---
 
-## 5. House Price Prediction using Regression Models
+## 6. House Price Prediction using Regression Models
 
 ### Project Focus
 
@@ -236,7 +257,7 @@ Lasso Regression performed best by reducing overfitting and improving prediction
 
 ---
 
-## 6. Retail Intelligence & Forecasting System
+## 7. Retail Intelligence & Forecasting System
 
 ### Project Focus
 
@@ -258,7 +279,7 @@ This project combined machine learning, forecasting, segmentation, and explainab
 
 ---
 
-## What I Am Building
+# What I Am Building
 
 I am continuously working on:
 
@@ -275,27 +296,27 @@ My goal is simple:
 
 ---
 
-## Connect With Me
+# Connect With Me
 
-### LinkedIn
+## LinkedIn
 
 [LinkedIn Profile](https://www.linkedin.com/in/kailash-singh-35b2961b0/?utm_source=chatgpt.com)
 
 ---
 
-### GitHub
+## GitHub
 
 [GitHub Profile](https://github.com/kailash4454?utm_source=chatgpt.com)
 
 ---
 
-### Email
+## Email
 
 [kailashsingh2203@gmail.com](mailto:kailashsingh2203@gmail.com)
 
 ---
 
-## Final Note
+# Final Note
 
 I strongly believe:
 
