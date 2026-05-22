@@ -85,6 +85,8 @@ This repository contains my Jupyter notebooks, analytics projects, machine learn
 * Statistics
 * Exploratory Data Analysis (EDA)
 * Hypothesis Testing
+* Confidence Intervals
+* Statistical Inference
 * Time Series Forecasting
 * Explainable AI (SHAP)
 * NLP
@@ -106,7 +108,8 @@ Data-Science-Portfolio/
 │   ├── Sales & Discounts Analysis Project
 │   ├── Hospital Patient Data Analysis Project
 │   ├── Cardiotocographic EDA Project
-│   └── Hypothesis Testing - Bombay Hospitality Ltd
+│   ├── Hypothesis Testing - Bombay Hospitality Ltd
+│   └── Estimation And Confidence Intervals
 │
 ├── NumPy & Pandas/
 │
@@ -208,6 +211,25 @@ This project strengthened my understanding of medical data interpretation and he
 Although restaurant owners believed operating costs had increased, statistical testing showed that the observed average costs were actually significantly lower than the theoretical model prediction.
 
 This project strengthened my understanding of statistical decision-making and business validation using hypothesis testing.
+
+---
+
+## 5. Estimation And Confidence Intervals using Statistical Inference
+### Project Focus
+
+
+* Confidence Interval Estimation
+* t-Distribution vs z-Distribution
+* Statistical Inference
+* Margin of Error Analysis
+* Manufacturing Reliability Estimation
+* Product Quality Analytics 
+
+### Key Insight
+
+The project demonstrated how uncertainty increases when population standard deviation is unknown, leading to wider t-confidence intervals compared to z-confidence intervals.
+
+This project strengthened my understanding of estimation theory, uncertainty quantification, and industrial quality control analytics.
 
 ---
 
