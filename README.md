@@ -6,22 +6,22 @@ Welcome to my Data Science Portfolio — a collection of hands-on projects, end-
 
 This repository reflects my journey from learning concepts to building industry-ready solutions in:
 
-* Data Analytics
-* Data Science
-* Machine Learning
-* Business Intelligence
-* Statistical Analysis
-* Dashboard Development
-* Healthcare Analytics
-* Retail Intelligence
-* Predictive Modeling
-* End-to-End Deployment Projects
+- Data Analytics
+- Data Science
+- Machine Learning
+- Business Intelligence
+- Statistical Analysis
+- Dashboard Development
+- Healthcare Analytics
+- Retail Intelligence
+- Predictive Modeling
+- End-to-End Deployment Projects
 
 ---
 
-# About Me
+# 👨‍💻 About Me
 
-Hi, I'm **Kailash Singh Rawat** — an MCA (Data Science) student and an aspiring **Data Analyst / Data Scientist** passionate about solving real-world business problems using data.
+Hi, I'm **Kailash Singh Rawat** — an MCA (Data Science) student and an aspiring **Data Analyst / Data Scientist** passionate about solving real-world business problems using data. :contentReference[oaicite:0]{index=0}
 
 I strongly believe:
 
@@ -29,75 +29,75 @@ I strongly believe:
 
 My focus is not just on building models, but on solving business problems through:
 
-* clean data
-* strong analysis
-* meaningful insights
-* decision-support systems
-* production-ready project thinking
+- clean data
+- strong analysis
+- meaningful insights
+- decision-support systems
+- production-ready project thinking
 
 This repository contains my Jupyter notebooks, analytics projects, machine learning systems, and portfolio work designed with recruiter expectations in mind.
 
 ---
 
-# Skills & Tools
+# 🛠️ Skills & Tools
 
 ---
 
-## Programming & Query Languages
+# 💻 Programming & Query Languages
 
-* Python
-* SQL
-* MySQL
-
----
-
-## Data Analysis & Visualization
-
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* Power BI
-* Tableau
-* Excel
+- Python
+- SQL
+- MySQL
 
 ---
 
-## Machine Learning
+# 📊 Data Analysis & Visualization
 
-* Scikit-learn
-* Logistic Regression
-* Linear Regression
-* Ridge Regression
-* Lasso Regression
-* Random Forest
-* Gradient Boosting
-* K-Means Clustering
-* Feature Engineering
-* Model Evaluation
-* Hyperparameter Tuning
-* Pipeline & ColumnTransformer
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Power BI
+- Tableau
+- Excel
 
 ---
 
-## Advanced Areas
+# 🤖 Machine Learning
 
-* Statistics
-* Exploratory Data Analysis (EDA)
-* Hypothesis Testing
-* Confidence Intervals
-* Statistical Inference
-* Time Series Forecasting
-* Explainable AI (SHAP)
-* NLP
-* Deep Learning (Learning Phase)
-* Business Analytics
-* Healthcare Analytics
-* Retail Intelligence
+- Scikit-learn
+- Logistic Regression
+- Multiple Linear Regression
+- Ridge Regression
+- Lasso Regression
+- Random Forest
+- Gradient Boosting
+- K-Means Clustering
+- Feature Engineering
+- Model Evaluation
+- Hyperparameter Tuning
+- Pipeline & ColumnTransformer
 
 ---
 
-# Repository Structure
+# 📈 Advanced Areas
+
+- Statistics
+- Exploratory Data Analysis (EDA)
+- Hypothesis Testing
+- Confidence Intervals
+- Statistical Inference
+- Time Series Forecasting
+- Explainable AI (SHAP)
+- NLP
+- Deep Learning (Learning Phase)
+- Business Analytics
+- Healthcare Analytics
+- Retail Intelligence
+
+---
+
+# 📂 Repository Structure
 
 ```text
 Data-Science-Portfolio/
@@ -110,6 +110,9 @@ Data-Science-Portfolio/
 │   ├── Cardiotocographic EDA Project
 │   ├── Hypothesis Testing - Bombay Hospitality Ltd
 │   └── Estimation And Confidence Intervals
+│
+├── Machine Learning/
+│   └── Toyota Corolla Price Prediction - Multiple Linear Regression
 │
 ├── NumPy & Pandas/
 │
@@ -127,27 +130,27 @@ Data-Science-Portfolio/
 
 ---
 
-# Featured Projects
+# 🌟 Featured Projects
 
 ---
 
-# Statistics & EDA Projects
+# 📊 Statistics & EDA Projects
 
 ---
 
-## 1. Sales & Discounts Analysis Project
+# 1️. Sales & Discounts Analysis Project
 
-### Project Focus
+## Project Focus
 
-* Mean, Median, Mode, Standard Deviation
-* Histograms and Distribution Analysis
-* Boxplots and Outlier Detection using IQR
-* Categorical Analysis using Bar Charts
-* Discount Behavior Analysis
-* Revenue Concentration Analysis
-* Business Interpretation of Sales Patterns
+- Mean, Median, Mode, Standard Deviation
+- Histograms and Distribution Analysis
+- Boxplots and Outlier Detection using IQR
+- Categorical Analysis using Bar Charts
+- Discount Behavior Analysis
+- Revenue Concentration Analysis
+- Business Interpretation of Sales Patterns
 
-### Key Insight
+## Key Insight
 
 A small number of high-value transactions were generating a major portion of total revenue, while most transactions remained low to medium in value.
 
@@ -155,19 +158,19 @@ This project strengthened my understanding of how descriptive analytics directly
 
 ---
 
-## 2. Hospital Patient Data Analysis Project
+# 2️. Hospital Patient Data Analysis Project
 
-### Project Focus
+## Project Focus
 
-* Patient Data Cleaning and Preprocessing
-* Missing Value Handling using Mean Imputation
-* Duplicate Record Removal using PatientID
-* Department-wise Revenue Analysis using GroupBy
-* Merging Patient + Billing Datasets
-* Row-wise and Column-wise Concatenation
-* Billing Analytics and Doctor Performance Preparation
+- Patient Data Cleaning and Preprocessing
+- Missing Value Handling using Mean Imputation
+- Duplicate Record Removal using PatientID
+- Department-wise Revenue Analysis using GroupBy
+- Merging Patient + Billing Datasets
+- Row-wise and Column-wise Concatenation
+- Billing Analytics and Doctor Performance Preparation
 
-### Key Insight
+## Key Insight
 
 Accurate billing analytics depends heavily on duplicate removal, missing value handling, and proper dataset merging before any dashboard or machine learning model can be trusted.
 
@@ -175,19 +178,19 @@ This project strengthened my understanding of healthcare analytics and operation
 
 ---
 
-## 3. Cardiotocographic EDA Project
+# 3️. Cardiotocographic EDA Project
 
-### Project Focus
+## Project Focus
 
-* Medical Dataset Cleaning and Preprocessing
-* Missing Value Handling using Median Imputation
-* Outlier Detection using IQR
-* Histograms, Boxplots, and Violin Plots
-* Correlation Heatmaps and Scatter Plots
-* Pair Plot Analysis
-* Fetal Health Monitoring Insights
+- Medical Dataset Cleaning and Preprocessing
+- Missing Value Handling using Median Imputation
+- Outlier Detection using IQR
+- Histograms, Boxplots, and Violin Plots
+- Correlation Heatmaps and Scatter Plots
+- Pair Plot Analysis
+- Fetal Health Monitoring Insights
 
-### Key Insight
+## Key Insight
 
 A strong relationship between uterine contractions and late decelerations highlighted possible contraction-related fetal stress and high-risk pregnancy indicators.
 
@@ -195,18 +198,18 @@ This project strengthened my understanding of medical data interpretation and he
 
 ---
 
-## 4. Bombay Hospitality Ltd. Operating Cost Analysis (Hypothesis Testing)
+# 4️. Bombay Hospitality Ltd. Operating Cost Analysis (Hypothesis Testing)
 
-### Project Focus
+## Project Focus
 
-* Hypothesis Testing
-* Right-Tailed Z-Test
-* Statistical Decision-Making
-* Critical Value Comparison
-* Business Model Validation
-* Evidence-Based Operational Analysis
+- Hypothesis Testing
+- Right-Tailed Z-Test
+- Statistical Decision-Making
+- Critical Value Comparison
+- Business Model Validation
+- Evidence-Based Operational Analysis
 
-### Key Insight
+## Key Insight
 
 Although restaurant owners believed operating costs had increased, statistical testing showed that the observed average costs were actually significantly lower than the theoretical model prediction.
 
@@ -214,18 +217,18 @@ This project strengthened my understanding of statistical decision-making and bu
 
 ---
 
-## 5. Estimation And Confidence Intervals using Statistical Inference
-### Project Focus
+# 5️. Estimation And Confidence Intervals using Statistical Inference
 
+## Project Focus
 
-* Confidence Interval Estimation
-* t-Distribution vs z-Distribution
-* Statistical Inference
-* Margin of Error Analysis
-* Manufacturing Reliability Estimation
-* Product Quality Analytics 
+- Confidence Interval Estimation
+- t-Distribution vs z-Distribution
+- Statistical Inference
+- Margin of Error Analysis
+- Manufacturing Reliability Estimation
+- Product Quality Analytics
 
-### Key Insight
+## Key Insight
 
 The project demonstrated how uncertainty increases when population standard deviation is unknown, leading to wider t-confidence intervals compared to z-confidence intervals.
 
@@ -233,69 +236,96 @@ This project strengthened my understanding of estimation theory, uncertainty qua
 
 ---
 
-# Resume Projects (Recruiter-Level End-to-End Projects)
+# 🤖 Machine Learning Projects
 
 ---
 
-## 5. Titanic Survival Prediction (End-to-End ML Project)
+# 6️. Toyota Corolla Price Prediction using Multiple Linear Regression
 
-### Project Focus
+## Project Focus
 
-* Complete ML Pipeline using Pipeline + ColumnTransformer
-* Custom Feature Engineering using Transformer Class
-* Logistic Regression Classification Model
-* FastAPI Backend for Real-Time Prediction
-* Streamlit Frontend UI
-* Production-Ready Project Structure
+- Multiple Linear Regression (MLR)
+- Exploratory Data Analysis (EDA)
+- Data Preprocessing
+- Feature Engineering
+- Model Evaluation
+- Ridge Regression
+- Lasso Regression
+- Regularization Techniques
+- Multicollinearity Handling
+- Predictive Analytics
 
-### Key Insight
+## Key Insight
+
+Car age and kilometers driven showed strong negative relationships with price, while horsepower and vehicle weight positively influenced resale value.
+
+The project demonstrated how regression models and regularization techniques improve pricing prediction and model stability in automotive analytics.
+
+---
+
+# 💼 Resume Projects (Recruiter-Level End-to-End Projects)
+
+---
+
+# 7️. Titanic Survival Prediction (End-to-End ML Project)
+
+## Project Focus
+
+- Complete ML Pipeline using Pipeline + ColumnTransformer
+- Custom Feature Engineering using Transformer Class
+- Logistic Regression Classification Model
+- FastAPI Backend for Real-Time Prediction
+- Streamlit Frontend UI
+- Production-Ready Project Structure
+
+## Key Insight
 
 This project demonstrated how machine learning moves beyond notebooks into real-world deployment using APIs, pipelines, and interactive applications.
 
-### Accuracy Achieved
+## Accuracy Achieved
 
 ~81%
 
 ---
 
-## 6. House Price Prediction using Regression Models
+# 8️. House Price Prediction using Regression Models
 
-### Project Focus
+## Project Focus
 
-* High-Dimensional Real Estate Dataset Analysis
-* Data Cleaning and Missing Value Handling
-* Log Transformation of Target Variable
-* One-Hot Encoding and Feature Engineering
-* Linear Regression, Ridge, and Lasso Comparison
-* Regularization for Model Optimization
+- High-Dimensional Real Estate Dataset Analysis
+- Data Cleaning and Missing Value Handling
+- Log Transformation of Target Variable
+- One-Hot Encoding and Feature Engineering
+- Linear Regression, Ridge, and Lasso Comparison
+- Regularization for Model Optimization
 
-### Key Insight
+## Key Insight
 
 Lasso Regression performed best by reducing overfitting and improving prediction accuracy through feature selection in a high-dimensional dataset.
 
-### Best R² Score
+## Best R² Score
 
 ~0.87
 
 ---
 
-## 7. Retail Intelligence & Forecasting System
+# 9️. Retail Intelligence & Forecasting System
 
-### Project Focus
+## Project Focus
 
-* End-to-End ML + Forecasting + Segmentation Project
-* Sales Prediction using ML Models
-* Hyperparameter Tuning using GridSearchCV
-* Time Series Forecasting using Facebook Prophet
-* Customer Segmentation using RFM + K-Means
-* Explainable AI using SHAP
-* Streamlit Application + Power BI Dashboard
+- End-to-End ML + Forecasting + Segmentation Project
+- Sales Prediction using ML Models
+- Hyperparameter Tuning using GridSearchCV
+- Time Series Forecasting using Facebook Prophet
+- Customer Segmentation using RFM + K-Means
+- Explainable AI using SHAP
+- Streamlit Application + Power BI Dashboard
 
-### Key Insight
+## Key Insight
 
 This project combined machine learning, forecasting, segmentation, and explainable AI into one unified production-ready business intelligence system.
 
-### Achieved R² Score
+## Achieved R² Score
 
 ~0.91
 
@@ -305,12 +335,12 @@ This project combined machine learning, forecasting, segmentation, and explainab
 
 I am continuously working on:
 
-* Recruiter-level portfolio projects
-* Real-world dashboard projects
-* End-to-End analytics case studies
-* Production-ready Machine Learning systems
-* Strong GitHub + LinkedIn portfolio presence
-* Practical problem-solving over theoretical learning
+- Recruiter-level portfolio projects
+- Real-world dashboard projects
+- End-to-End analytics case studies
+- Production-ready Machine Learning systems
+- Strong GitHub + LinkedIn portfolio presence
+- Practical problem-solving over theoretical learning
 
 My goal is simple:
 
@@ -318,23 +348,27 @@ My goal is simple:
 
 ---
 
-# Connect With Me
-
-## LinkedIn
-
-[LinkedIn Profile](https://www.linkedin.com/in/kailash-singh-35b2961b0/?utm_source=chatgpt.com)
+# 📬 Connect With Me
 
 ---
 
-## GitHub
+# 🔗 LinkedIn
 
-[GitHub Profile](https://github.com/kailash4454?utm_source=chatgpt.com)
+LinkedIn Profile:  
+https://www.linkedin.com/in/kailash-singh-35b2961b0/
 
 ---
 
-## Email
+# 💻 GitHub
 
-[kailashsingh2203@gmail.com](mailto:kailashsingh2203@gmail.com)
+GitHub Profile:  
+https://github.com/kailash4454
+
+---
+
+# 📧 Email
+
+kailashsingh2203@gmail.com
 
 ---
 
@@ -342,17 +376,16 @@ My goal is simple:
 
 I strongly believe:
 
-> Companies do not hire people to create charts.
+> Companies do not hire people to create charts.  
 > They hire people who can create decisions.
 
 Because:
 
-Bad Data → Bad Reports
-
+Bad Data → Bad Reports  
 Bad Reports → Bad Decisions
 
 I am learning every day to become that kind of analyst.
 
 ---
 
-⭐ If you find my work valuable, feel free to explore, connect, and collaborate.
+# ⭐ If you find my work valuable, feel free to explore, connect, and collaborate.
