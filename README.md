@@ -21,7 +21,7 @@ This repository reflects my journey from learning concepts to building industry-
 
 # 👨‍💻 About Me
 
-Hi, I'm **Kailash Singh Rawat** — an MCA (Data Science) student and an aspiring **Data Analyst / Data Scientist** passionate about solving real-world business problems using data. :contentReference[oaicite:0]{index=0}
+Hi, I'm **Kailash Singh Rawat** — an MCA (Data Science) student and an aspiring **Data Analyst / Data Scientist** passionate about solving real-world business problems using data.
 
 I strongly believe:
 
@@ -112,7 +112,8 @@ Data-Science-Portfolio/
 │   └── Estimation And Confidence Intervals
 │
 ├── Machine Learning/
-│   └── Toyota Corolla Price Prediction - Multiple Linear Regression
+│   ├── Toyota Corolla Price Prediction - Multiple Linear Regression
+│   └── Diabetes Prediction using Logistic Regression
 │
 ├── NumPy & Pandas/
 │
@@ -138,9 +139,9 @@ Data-Science-Portfolio/
 
 ---
 
-# 1️. Sales & Discounts Analysis Project
+# 1️⃣ Sales & Discounts Analysis Project
 
-## Project Focus
+## 📌 Project Focus
 
 - Mean, Median, Mode, Standard Deviation
 - Histograms and Distribution Analysis
@@ -150,7 +151,7 @@ Data-Science-Portfolio/
 - Revenue Concentration Analysis
 - Business Interpretation of Sales Patterns
 
-## Key Insight
+## 🔍 Key Insight
 
 A small number of high-value transactions were generating a major portion of total revenue, while most transactions remained low to medium in value.
 
@@ -158,9 +159,9 @@ This project strengthened my understanding of how descriptive analytics directly
 
 ---
 
-# 2️. Hospital Patient Data Analysis Project
+# 2️⃣ Hospital Patient Data Analysis Project
 
-## Project Focus
+## 📌 Project Focus
 
 - Patient Data Cleaning and Preprocessing
 - Missing Value Handling using Mean Imputation
@@ -170,7 +171,7 @@ This project strengthened my understanding of how descriptive analytics directly
 - Row-wise and Column-wise Concatenation
 - Billing Analytics and Doctor Performance Preparation
 
-## Key Insight
+## 🔍 Key Insight
 
 Accurate billing analytics depends heavily on duplicate removal, missing value handling, and proper dataset merging before any dashboard or machine learning model can be trusted.
 
@@ -178,9 +179,9 @@ This project strengthened my understanding of healthcare analytics and operation
 
 ---
 
-# 3️. Cardiotocographic EDA Project
+# 3️⃣ Cardiotocographic EDA Project
 
-## Project Focus
+## 📌 Project Focus
 
 - Medical Dataset Cleaning and Preprocessing
 - Missing Value Handling using Median Imputation
@@ -190,7 +191,7 @@ This project strengthened my understanding of healthcare analytics and operation
 - Pair Plot Analysis
 - Fetal Health Monitoring Insights
 
-## Key Insight
+## 🔍 Key Insight
 
 A strong relationship between uterine contractions and late decelerations highlighted possible contraction-related fetal stress and high-risk pregnancy indicators.
 
@@ -198,9 +199,9 @@ This project strengthened my understanding of medical data interpretation and he
 
 ---
 
-# 4️. Bombay Hospitality Ltd. Operating Cost Analysis (Hypothesis Testing)
+# 4️⃣ Bombay Hospitality Ltd. Operating Cost Analysis (Hypothesis Testing)
 
-## Project Focus
+## 📌 Project Focus
 
 - Hypothesis Testing
 - Right-Tailed Z-Test
@@ -209,7 +210,7 @@ This project strengthened my understanding of medical data interpretation and he
 - Business Model Validation
 - Evidence-Based Operational Analysis
 
-## Key Insight
+## 🔍 Key Insight
 
 Although restaurant owners believed operating costs had increased, statistical testing showed that the observed average costs were actually significantly lower than the theoretical model prediction.
 
@@ -217,9 +218,9 @@ This project strengthened my understanding of statistical decision-making and bu
 
 ---
 
-# 5️. Estimation And Confidence Intervals using Statistical Inference
+# 5️⃣ Estimation And Confidence Intervals using Statistical Inference
 
-## Project Focus
+## 📌 Project Focus
 
 - Confidence Interval Estimation
 - t-Distribution vs z-Distribution
@@ -228,7 +229,7 @@ This project strengthened my understanding of statistical decision-making and bu
 - Manufacturing Reliability Estimation
 - Product Quality Analytics
 
-## Key Insight
+## 🔍 Key Insight
 
 The project demonstrated how uncertainty increases when population standard deviation is unknown, leading to wider t-confidence intervals compared to z-confidence intervals.
 
@@ -240,9 +241,9 @@ This project strengthened my understanding of estimation theory, uncertainty qua
 
 ---
 
-# 6️. Toyota Corolla Price Prediction using Multiple Linear Regression
+# 6️⃣ Toyota Corolla Price Prediction using Multiple Linear Regression
 
-## Project Focus
+## 📌 Project Focus
 
 - Multiple Linear Regression (MLR)
 - Exploratory Data Analysis (EDA)
@@ -255,7 +256,7 @@ This project strengthened my understanding of estimation theory, uncertainty qua
 - Multicollinearity Handling
 - Predictive Analytics
 
-## Key Insight
+## 🔍 Key Insight
 
 Car age and kilometers driven showed strong negative relationships with price, while horsepower and vehicle weight positively influenced resale value.
 
@@ -263,13 +264,36 @@ The project demonstrated how regression models and regularization techniques imp
 
 ---
 
+# 7️⃣ Diabetes Prediction using Logistic Regression
+
+## 📌 Project Focus
+
+- Logistic Regression
+- Binary Classification
+- Healthcare Analytics
+- Exploratory Data Analysis (EDA)
+- Medical Data Preprocessing
+- Feature Scaling
+- ROC-AUC Analysis
+- Explainable AI
+- Streamlit Deployment
+- Healthcare Risk Prediction
+
+## 🔍 Key Insight
+
+Glucose, BMI, Age, and DiabetesPedigreeFunction showed strong influence on diabetes risk prediction.
+
+The project demonstrated how Machine Learning and healthcare analytics can support early disease detection and preventive healthcare systems.
+
+---
+
 # 💼 Resume Projects (Recruiter-Level End-to-End Projects)
 
 ---
 
-# 7️. Titanic Survival Prediction (End-to-End ML Project)
+# 8️⃣ Titanic Survival Prediction (End-to-End ML Project)
 
-## Project Focus
+## 📌 Project Focus
 
 - Complete ML Pipeline using Pipeline + ColumnTransformer
 - Custom Feature Engineering using Transformer Class
@@ -278,19 +302,19 @@ The project demonstrated how regression models and regularization techniques imp
 - Streamlit Frontend UI
 - Production-Ready Project Structure
 
-## Key Insight
+## 🔍 Key Insight
 
 This project demonstrated how machine learning moves beyond notebooks into real-world deployment using APIs, pipelines, and interactive applications.
 
-## Accuracy Achieved
+## 🎯 Accuracy Achieved
 
 ~81%
 
 ---
 
-# 8️. House Price Prediction using Regression Models
+# 9️⃣ House Price Prediction using Regression Models
 
-## Project Focus
+## 📌 Project Focus
 
 - High-Dimensional Real Estate Dataset Analysis
 - Data Cleaning and Missing Value Handling
@@ -299,19 +323,19 @@ This project demonstrated how machine learning moves beyond notebooks into real-
 - Linear Regression, Ridge, and Lasso Comparison
 - Regularization for Model Optimization
 
-## Key Insight
+## 🔍 Key Insight
 
 Lasso Regression performed best by reducing overfitting and improving prediction accuracy through feature selection in a high-dimensional dataset.
 
-## Best R² Score
+## 🎯 Best R² Score
 
 ~0.87
 
 ---
 
-# 9️. Retail Intelligence & Forecasting System
+# 🔟 Retail Intelligence & Forecasting System
 
-## Project Focus
+## 📌 Project Focus
 
 - End-to-End ML + Forecasting + Segmentation Project
 - Sales Prediction using ML Models
@@ -321,17 +345,17 @@ Lasso Regression performed best by reducing overfitting and improving prediction
 - Explainable AI using SHAP
 - Streamlit Application + Power BI Dashboard
 
-## Key Insight
+## 🔍 Key Insight
 
 This project combined machine learning, forecasting, segmentation, and explainable AI into one unified production-ready business intelligence system.
 
-## Achieved R² Score
+## 🎯 Achieved R² Score
 
 ~0.91
 
 ---
 
-# What I Am Building
+# 🚀 What I Am Building
 
 I am continuously working on:
 
@@ -372,7 +396,7 @@ kailashsingh2203@gmail.com
 
 ---
 
-# Final Note
+# ⭐ Final Note
 
 I strongly believe:
 
