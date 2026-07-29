@@ -1,415 +1,322 @@
-# Data-Science-Portfolio
+<div align="center">
 
-# Turning Data into Business Decisions
+# 🤖 Data Science Portfolio
 
-Welcome to my Data Science Portfolio — a collection of hands-on projects, end-to-end Machine Learning systems, business analytics case studies, EDA projects, statistical analysis projects, dashboards, and recruiter-level practical work built to solve real-world problems using data.
+### Building Intelligent Solutions Through Data Science & Machine Learning
 
-This repository reflects my journey from learning concepts to building industry-ready solutions in:
+<img src="https://img.shields.io/badge/Data%20Science-Portfolio-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Open%20to-Data%20Scientist%20Roles-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Made%20with-Passion-red?style=for-the-badge" />
 
-- Data Analytics
-- Data Science
-- Machine Learning
-- Business Intelligence
+---
+
+### 👋 Hi, I'm Kailash Singh
+
+Aspiring **Data Scientist** and **Data Analyst** passionate about transforming raw data into actionable insights using **Python, Machine Learning, SQL, Statistics, Power BI, and Tableau**.
+
+This repository showcases my end-to-end data science projects, machine learning models, exploratory data analysis, statistical analysis, forecasting systems, and real-world business case studies.
+
+</div>
+
+---
+
+# 🎯 Career Objective
+
+I enjoy solving real-world business problems using data, statistics, and machine learning. My goal is to build scalable, production-ready data science solutions that enable organizations to make intelligent, data-driven decisions.
+
+---
+
+# 🛠️ Technical Skills
+
+## 💻 Programming & Databases
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+---
+
+## 📊 Data Science & Analytics
+
+- Data Cleaning
+- Data Wrangling
+- Exploratory Data Analysis (EDA)
 - Statistical Analysis
+- Feature Engineering
+- Model Evaluation
+- Predictive Analytics
+- Business Intelligence
 - Dashboard Development
-- Healthcare Analytics
-- Retail Intelligence
-- Predictive Modeling
-- End-to-End Deployment Projects
 
 ---
 
-# 👨‍💻 About Me
+## 📚 Python Libraries
 
-Hi, I'm **Kailash Singh Rawat** — an MCA (Data Science) student and an aspiring **Data Analyst / Data Scientist** passionate about solving real-world business problems using data.
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-I strongly believe:
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy)
 
-> Before building Machine Learning models, understanding the data deeply is the real skill that creates strong analysts.
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
 
-My focus is not just on building models, but on solving business problems through:
-
-- clean data
-- strong analysis
-- meaningful insights
-- decision-support systems
-- production-ready project thinking
-
-This repository contains my Jupyter notebooks, analytics projects, machine learning systems, and portfolio work designed with recruiter expectations in mind.
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn)
 
 ---
 
-# 🛠️ Skills & Tools
+## 🤖 Machine Learning
 
----
-
-# 💻 Programming & Query Languages
-
-- Python
-- SQL
-- MySQL
-
----
-
-# 📊 Data Analysis & Visualization
-
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Power BI
-- Tableau
-- Excel
-
----
-
-# 🤖 Machine Learning
-
-- Scikit-learn
+- Linear Regression
 - Logistic Regression
-- Multiple Linear Regression
 - Ridge Regression
 - Lasso Regression
 - Random Forest
 - Gradient Boosting
 - K-Means Clustering
-- Feature Engineering
-- Model Evaluation
 - Hyperparameter Tuning
 - Pipeline & ColumnTransformer
+- Explainable AI (SHAP)
 
 ---
 
-# 📈 Advanced Areas
+## 📈 Business Intelligence
 
-- Statistics
-- Exploratory Data Analysis (EDA)
-- Hypothesis Testing
-- Confidence Intervals
-- Statistical Inference
-- Time Series Forecasting
-- Explainable AI (SHAP)
-- NLP
-- Deep Learning (Learning Phase)
-- Business Analytics
-- Healthcare Analytics
-- Retail Intelligence
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi)
+
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau)
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel)
 
 ---
 
 # 📂 Repository Structure
 
 ```text
-Data-Science-Portfolio/
+Data-Science-Portfolio
+
 │
-├── Python/
+
+├── 📁 Python
+
+├── 📁 Statistics_and_EDA
+
+├── 📁 Machine_Learning
+
+├── 📁 NumPy_Pandas
+
+├── 📁 Resume_Projects
+
+├── 📁 SQL_Projects
+
+├── 📁 PowerBI_Dashboards
+
+├── 📁 Tableau_Dashboards
+
+├── 📁 Images
+
+├── 📁 Resume
+
+├── 📁 Certifications
+
 │
-├── Statistics & EDA/
-│   ├── Sales & Discounts Analysis Project
-│   ├── Hospital Patient Data Analysis Project
-│   ├── Cardiotocographic EDA Project
-│   ├── Hypothesis Testing - Bombay Hospitality Ltd
-│   └── Estimation And Confidence Intervals
-│
-├── Machine Learning/
-│   ├── Toyota Corolla Price Prediction - Multiple Linear Regression
-│   └── Diabetes Prediction using Logistic Regression
-│
-├── NumPy & Pandas/
-│
-├── Resume Projects/
-│   ├── Titanic Survival Prediction
-│   ├── House Price Prediction
-│   └── Retail Intelligence & Forecasting System
-│
-├── SQL Projects/
-│
-├── Power BI Dashboards/
-│
-└── README.md
+
+├── README.md
+
+├── LICENSE
+
+└── .gitignore
 ```
 
 ---
 
-# 🌟 Featured Projects
+# ⭐ Featured Projects
+
+| Project | Category | Key Technologies |
+|----------|----------|------------------|
+| 🚀 Retail Intelligence & Forecasting System | End-to-End Data Science | Python, Machine Learning, Prophet, SHAP, Streamlit |
+| 🚢 Titanic Survival Prediction | Classification | Logistic Regression, Pipeline, FastAPI |
+| 🏠 House Price Prediction | Regression | Ridge, Lasso, Feature Engineering |
+| 🚗 Toyota Corolla Price Prediction | Regression | Multiple Linear Regression |
+| 🩺 Diabetes Prediction | Healthcare Analytics | Logistic Regression, EDA |
+| 📊 Sales & Discounts Analysis | Statistics & EDA | Python, Pandas, Visualization |
+| 🏥 Hospital Patient Analysis | Healthcare Analytics | Data Cleaning, SQL, Pandas |
+| ❤️ Cardiotocographic EDA | Medical Data Analysis | EDA, Statistics |
+| 📈 Bombay Hospitality Cost Analysis | Hypothesis Testing | Statistical Inference |
+| 📉 Estimation & Confidence Intervals | Statistics | Confidence Intervals |
 
 ---
 
-# 📊 Statistics & EDA Projects
+# 🔬 Machine Learning Workflow
+
+```text
+Business Problem
+
+↓
+
+Data Collection
+
+↓
+
+Data Cleaning
+
+↓
+
+Exploratory Data Analysis
+
+↓
+
+Feature Engineering
+
+↓
+
+Model Building
+
+↓
+
+Hyperparameter Tuning
+
+↓
+
+Model Evaluation
+
+↓
+
+Deployment
+
+↓
+
+Business Insights
+```
 
 ---
 
-# 1️⃣ Sales & Discounts Analysis Project
+# 📸 Project Gallery
 
-## 📌 Project Focus
+## Retail Intelligence & Forecasting System
 
-- Mean, Median, Mode, Standard Deviation
-- Histograms and Distribution Analysis
-- Boxplots and Outlier Detection using IQR
-- Categorical Analysis using Bar Charts
-- Discount Behavior Analysis
-- Revenue Concentration Analysis
-- Business Interpretation of Sales Patterns
-
-## 🔍 Key Insight
-
-A small number of high-value transactions were generating a major portion of total revenue, while most transactions remained low to medium in value.
-
-This project strengthened my understanding of how descriptive analytics directly impacts business decisions.
+> ![dashboard.png](Resume%20Projects/Retail_Sales_Forecasting_Project/assets/dashboard.png) 
+> ![prediction.png](Resume%20Projects/Retail_Sales_Forecasting_Project/assets/prediction.png) 
+> ![segmentation.png](Resume%20Projects/Retail_Sales_Forecasting_Project/assets/segmentation.png) 
+> ![forecast.png](Resume%20Projects/Retail_Sales_Forecasting_Project/assets/forecast.png)
 
 ---
 
-# 2️⃣ Hospital Patient Data Analysis Project
+## Machine Learning Dashboards
 
-## 📌 Project Focus
-
-- Patient Data Cleaning and Preprocessing
-- Missing Value Handling using Mean Imputation
-- Duplicate Record Removal using PatientID
-- Department-wise Revenue Analysis using GroupBy
-- Merging Patient + Billing Datasets
-- Row-wise and Column-wise Concatenation
-- Billing Analytics and Doctor Performance Preparation
-
-## 🔍 Key Insight
-
-Accurate billing analytics depends heavily on duplicate removal, missing value handling, and proper dataset merging before any dashboard or machine learning model can be trusted.
-
-This project strengthened my understanding of healthcare analytics and operational intelligence.
+> *(Add Screenshot Here)*
 
 ---
 
-# 3️⃣ Cardiotocographic EDA Project
+## Statistical Analysis Projects
 
-## 📌 Project Focus
-
-- Medical Dataset Cleaning and Preprocessing
-- Missing Value Handling using Median Imputation
-- Outlier Detection using IQR
-- Histograms, Boxplots, and Violin Plots
-- Correlation Heatmaps and Scatter Plots
-- Pair Plot Analysis
-- Fetal Health Monitoring Insights
-
-## 🔍 Key Insight
-
-A strong relationship between uterine contractions and late decelerations highlighted possible contraction-related fetal stress and high-risk pregnancy indicators.
-
-This project strengthened my understanding of medical data interpretation and healthcare decision support.
+> *(Add Screenshot Here)*
 
 ---
 
-# 4️⃣ Bombay Hospitality Ltd. Operating Cost Analysis (Hypothesis Testing)
+# 💡 Core Competencies
 
-## 📌 Project Focus
+✔ Data Cleaning
 
-- Hypothesis Testing
-- Right-Tailed Z-Test
-- Statistical Decision-Making
-- Critical Value Comparison
-- Business Model Validation
-- Evidence-Based Operational Analysis
+✔ Exploratory Data Analysis (EDA)
 
-## 🔍 Key Insight
+✔ Statistical Analysis
 
-Although restaurant owners believed operating costs had increased, statistical testing showed that the observed average costs were actually significantly lower than the theoretical model prediction.
+✔ Machine Learning
 
-This project strengthened my understanding of statistical decision-making and business validation using hypothesis testing.
+✔ Feature Engineering
 
----
+✔ Model Evaluation
 
-# 5️⃣ Estimation And Confidence Intervals using Statistical Inference
+✔ Explainable AI (SHAP)
 
-## 📌 Project Focus
+✔ Predictive Analytics
 
-- Confidence Interval Estimation
-- t-Distribution vs z-Distribution
-- Statistical Inference
-- Margin of Error Analysis
-- Manufacturing Reliability Estimation
-- Product Quality Analytics
+✔ Time Series Forecasting
 
-## 🔍 Key Insight
+✔ Dashboard Development
 
-The project demonstrated how uncertainty increases when population standard deviation is unknown, leading to wider t-confidence intervals compared to z-confidence intervals.
+✔ Business Intelligence
 
-This project strengthened my understanding of estimation theory, uncertainty quantification, and industrial quality control analytics.
+✔ Data Storytelling
 
 ---
 
-# 🤖 Machine Learning Projects
+# 🎯 Highlights
+
+- 📊 End-to-end Machine Learning Projects
+- 📈 Business Analytics Case Studies
+- 🏥 Healthcare Analytics Projects
+- 🛒 Retail Intelligence Solutions
+- 📉 Statistical Analysis & Hypothesis Testing
+- 📊 Interactive Dashboards (Power BI & Tableau)
+- 🚀 Production-Ready ML Pipelines
+- 🌐 Streamlit & FastAPI Applications
 
 ---
 
-# 6️⃣ Toyota Corolla Price Prediction using Multiple Linear Regression
+# 🎓 Certifications
 
-## 📌 Project Focus
+This repository includes certifications in:
 
-- Multiple Linear Regression (MLR)
-- Exploratory Data Analysis (EDA)
-- Data Preprocessing
-- Feature Engineering
-- Model Evaluation
-- Ridge Regression
-- Lasso Regression
-- Regularization Techniques
-- Multicollinearity Handling
-- Predictive Analytics
+- Python
+- SQL
+- Machine Learning
+- Data Analytics
+- Data Science
+- Power BI
+- Tableau
 
-## 🔍 Key Insight
-
-Car age and kilometers driven showed strong negative relationships with price, while horsepower and vehicle weight positively influenced resale value.
-
-The project demonstrated how regression models and regularization techniques improve pricing prediction and model stability in automotive analytics.
+📁 See the **Certifications** folder.
 
 ---
 
-# 7️⃣ Diabetes Prediction using Logistic Regression
+# 📄 Resume
 
-## 📌 Project Focus
-
-- Logistic Regression
-- Binary Classification
-- Healthcare Analytics
-- Exploratory Data Analysis (EDA)
-- Medical Data Preprocessing
-- Feature Scaling
-- ROC-AUC Analysis
-- Explainable AI
-- Streamlit Deployment
-- Healthcare Risk Prediction
-
-## 🔍 Key Insight
-
-Glucose, BMI, Age, and DiabetesPedigreeFunction showed strong influence on diabetes risk prediction.
-
-The project demonstrated how Machine Learning and healthcare analytics can support early disease detection and preventive healthcare systems.
+My latest resume is available in the **Resume** folder.
 
 ---
 
-# 💼 Resume Projects (Recruiter-Level End-to-End Projects)
+# 🚀 Currently Learning
+
+- Deep Learning
+- Natural Language Processing (NLP)
+- MLOps
+- Data Engineering
+- Cloud Deployment
+- Generative AI
+- Large Language Models (LLMs)
 
 ---
 
-# 8️⃣ Titanic Survival Prediction (End-to-End ML Project)
+# 📫 Connect With Me
 
-## 📌 Project Focus
+### 💼 LinkedIn
 
-- Complete ML Pipeline using Pipeline + ColumnTransformer
-- Custom Feature Engineering using Transformer Class
-- Logistic Regression Classification Model
-- FastAPI Backend for Real-Time Prediction
-- Streamlit Frontend UI
-- Production-Ready Project Structure
-
-## 🔍 Key Insight
-
-This project demonstrated how machine learning moves beyond notebooks into real-world deployment using APIs, pipelines, and interactive applications.
-
-## 🎯 Accuracy Achieved
-
-~81%
-
----
-
-# 9️⃣ House Price Prediction using Regression Models
-
-## 📌 Project Focus
-
-- High-Dimensional Real Estate Dataset Analysis
-- Data Cleaning and Missing Value Handling
-- Log Transformation of Target Variable
-- One-Hot Encoding and Feature Engineering
-- Linear Regression, Ridge, and Lasso Comparison
-- Regularization for Model Optimization
-
-## 🔍 Key Insight
-
-Lasso Regression performed best by reducing overfitting and improving prediction accuracy through feature selection in a high-dimensional dataset.
-
-## 🎯 Best R² Score
-
-~0.87
-
----
-
-# 🔟 Retail Intelligence & Forecasting System
-
-## 📌 Project Focus
-
-- End-to-End ML + Forecasting + Segmentation Project
-- Sales Prediction using ML Models
-- Hyperparameter Tuning using GridSearchCV
-- Time Series Forecasting using Facebook Prophet
-- Customer Segmentation using RFM + K-Means
-- Explainable AI using SHAP
-- Streamlit Application + Power BI Dashboard
-
-## 🔍 Key Insight
-
-This project combined machine learning, forecasting, segmentation, and explainable AI into one unified production-ready business intelligence system.
-
-## 🎯 Achieved R² Score
-
-~0.91
-
----
-
-# 🚀 What I Am Building
-
-I am continuously working on:
-
-- Recruiter-level portfolio projects
-- Real-world dashboard projects
-- End-to-End analytics case studies
-- Production-ready Machine Learning systems
-- Strong GitHub + LinkedIn portfolio presence
-- Practical problem-solving over theoretical learning
-
-My goal is simple:
-
-# Become industry-ready with practical skills, not just theoretical knowledge.
-
----
-
-# 📬 Connect With Me
-
----
-
-# 🔗 LinkedIn
-
-LinkedIn Profile:  
+**LinkedIn:**  
 https://www.linkedin.com/in/kailash-singh-35b2961b0/
 
----
+### 💻 GitHub
 
-# 💻 GitHub
-
-GitHub Profile:  
+**GitHub:**  
 https://github.com/kailash4454
 
----
+### 📧 Email
 
-# 📧 Email
-
+**Email:**  
 kailashsingh2203@gmail.com
 
 ---
 
-# ⭐ Final Note
+<div align="center">
 
-I strongly believe:
+## ⭐ If you find this repository useful,
 
-> Companies do not hire people to create charts.  
-> They hire people who can create decisions.
+### Please consider giving it a ⭐
 
-Because:
-
-Bad Data → Bad Reports  
-Bad Reports → Bad Decisions
-
-I am learning every day to become that kind of analyst.
+Your support motivates me to continue building practical, real-world Data Science projects.
 
 ---
 
-# ⭐ If you find my work valuable, feel free to explore, connect, and collaborate.
+### "Turning Data into Intelligent Business Decisions."
+
+Thank you for visiting my portfolio!
+
+</div>
